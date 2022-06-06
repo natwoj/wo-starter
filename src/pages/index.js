@@ -11,11 +11,11 @@ import LatestPosts from "../components/Post/LatestPosts"
 const Index = () => {
   return (
     <>
-      <Seo title="Home" />
+      <Seo title="Start" />
       <Layout>
         <BannerModule
-          title="Welcome to Barcadia"
-          subTitle="Using a combination of Gatsby and Contentful, Barcadia is ready to deploy and simple to use."
+          title="Welcome to wejdzonline.pl"
+          subTitle="Strony na wordpress, które sprzedają. Trener personalny? Dietetyk? Działaś w gastronomii? Mały biznes i większa firma. Tworzenie www, prowadzenie i administracja Twoją stroną - wejdz online!"
         />
         <BasicTextModule
           title="A super-fast theme that is easy to get started, using the power of

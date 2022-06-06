@@ -62,7 +62,7 @@ const Footer = () => {
         siteMeta.linkedinUsername ? (
           <FooterMenuStyles className="footer__menu social__menu">
             <h5>
-              Follow Barcadia<span>.</span>
+              Just follow:
             </h5>
             <ul>
               {siteMeta.twitterUsername && (
@@ -118,7 +118,7 @@ const Footer = () => {
       <CopyrightStyles>
         <div className="container container__tight">
           <p>
-            Designed & developed by{" "}
+           Proudly designed as Gatsby template by{" "}
             <a
               href={siteMeta.developerUrl}
               target="_blank"
