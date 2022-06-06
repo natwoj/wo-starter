@@ -18,6 +18,7 @@
     "@contentful/rich-text-types": "^15.10.1",
     "@fontsource/heebo": "^4.5.2",
     "babel-plugin-styled-components": "^2.0.2",
+    "contentful-cli": "^1.14.6",
     "dotenv": "^10.0.0",
     "framer-motion": "^5.5.5",
     "gatsby": "^4.8.1",
