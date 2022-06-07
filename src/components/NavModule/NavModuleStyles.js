@@ -161,10 +161,11 @@ export const HamburgerStyles = styled(motion.button)`
 
 export const LogoStyles = styled.div`
   font-weight: 700;
-  font-size: 20px;
+  font-size: 40px;
   letter-spacing: -0.5px;
 
   a {
+    font-size: 37px;
     color: #fff;
     text-decoration: none;
     transition: color 0.3s ease;
