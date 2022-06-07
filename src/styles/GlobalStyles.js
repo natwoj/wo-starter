@@ -77,6 +77,7 @@ export const GlobalStyle = createGlobalStyle`
 
 
 body {
+    border: 8px solid #28E8D1;
     font-family: 'Heebo', sans-serif;
     margin: 0;
     -webkit-font-smoothing: antialiased;

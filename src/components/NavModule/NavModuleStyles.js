@@ -138,9 +138,9 @@ export const HamburgerStyles = styled(motion.button)`
   width: 30px;
   height: 30px;
   padding: 0;
-  cursor: pointer;
+  cursor: crosshair;
   outline: none;
-
+  
   &:focus {
     border: none;
     outline: none;
