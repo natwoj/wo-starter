@@ -74,8 +74,9 @@ export const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
     scroll-behavior: smooth;
 }  
-
-
+::selection {
+  background-color: #28E8D1;
+}
 body {
     border: 8px solid #28E8D1;
     font-family: 'Heebo', sans-serif;
