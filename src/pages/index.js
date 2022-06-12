@@ -14,27 +14,24 @@ const Index = () => {
       <Seo title="Start" />
       <Layout>
         <BannerModule
-          title="Welcome to wejdzonline.pl"
-          subTitle="Strony na wordpress, które sprzedają. Trener personalny? Dietetyk? Działaś w gastronomii? Mały biznes i większa firma. Tworzenie www, prowadzenie i administracja Twoją stroną - wejdz online!"
+          title="Witaj na wejdzonline.pl"
+          subTitle="Strony na wordpress, które sprzedają. Trener personalny? Dietetyk? Działasz w gastronomii? Mały biznes i większa firma. Tworzenie www, prowadzenie i administracja Twoją stroną - wejdz online!"
         />
         <BasicTextModule
-          title="A super-fast theme that is easy to get started, using the power of
-            GatsbyJS"
-          content="Using modern CSS properties such as grid, this theme is optmised for
-            speed and mobile devices. Giving users an excellent experience on
-            any device. Future-proofing your product."
+          title="WEJDŹ ONLINE I TU ZOSTAŃ"
+          content="Skoro tu trafiłeś to znaczy, że zależy Ci na własnym biznesie. Czasami jednak trzeba się mocno napocić, żeby przyciągnąć klientów lub ich utrzymać. Daj się poznać w sieci, możesz tylko zyskać!"
           link="/products"
-          linkText="View Products"
+          linkText="Zobacz usługi"
         />
         <PerksModule>
           <Perk title="The Title" content="The content" />
         </PerksModule>
         <Features
-          title="Featured Products from Barcadia."
+          title="Usługi"
           introduction="Vivamus quam mauris, pulvinar vel mauris id, interdum semper neque. Proin malesuada libero eget tellus scelerisque, id egestas tortor egestas."
         />
         <LatestPosts
-          title="The Latest from Barcadia"
+          title="Dla kogo?"
           introduction="Cras scelerisque, tellus sed gravida tincidunt, velit tellus blandit justo, nec viverra augue erat in erat. Maecenas iaculis sed purus non fringilla."
         />
       </Layout>

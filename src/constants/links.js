@@ -5,18 +5,18 @@ export const menuItems = [
   },
   { 
     path: "/about",
-    text: "about",
+    text: "o mnie",
   },
   {
     path: "/news",
     text: "news",
   },
   {
-    path: "/contact",
-    text: "contact",
+    path: "/products",
+    text: "usługi",
   },
   {
-    path: "/products",
-    text: "products",
-  },
+    path: "/contact",
+    text: "kontakt",
+  }
 ]

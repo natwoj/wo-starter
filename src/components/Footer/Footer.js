@@ -18,7 +18,7 @@ const Footer = () => {
     <FooterStyles style={{ marginBottom: 0 }} className="section">
       <div className="container container__tight">
         <FooterMenuStyles className="footer__menu">
-          <h5>Links</h5>
+          <h5>Menu</h5>
           <ul>
             {menuItems.map((item, index) => {
               return (
