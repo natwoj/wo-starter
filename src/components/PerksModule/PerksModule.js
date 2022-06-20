@@ -18,7 +18,7 @@ const PerksModule = () => {
       <div className="container container__tight">
         <Perk
           title="Wordpress 6.0"
-          content="Najpopularniejszy na całym świecie system zarządzania treścią stron internetowych (CMS)"
+          content=""
         >
           <StaticImage
             src="../../../static/logos/Wordpress_Blue_logo.png"
@@ -32,7 +32,7 @@ const PerksModule = () => {
         </span>
         <Perk
           title="HTML5"
-          content="HTML5 jest to język pozwalający na tworzenie i wyświetlanie stron internetowych, sklepów czy aplikacji webowych."
+          content=""
         >
           <StaticImage
             src="../../../static/logos/html5.png"
@@ -46,10 +46,24 @@ const PerksModule = () => {
         </span>
         <Perk
           title="CSS3"
-          content="Język słuzący do opisu warstwy prezentacji stron internetowych. Nadaje naszej stronie wygląd."
+          content=""
         >
           <StaticImage
             src="../../../static/logos/css3.png"
+            alt="Perk Image"
+            layout="constrained"
+            placeholder="tracedSVG"
+          />
+        </Perk>
+        <span className="perks__divider">
+          <Cross />
+        </span>
+        <Perk
+          title="JavaScript"
+          content=""
+        >
+          <StaticImage
+            src="../../../static/logos/js.png"
             alt="Perk Image"
             layout="constrained"
             placeholder="tracedSVG"

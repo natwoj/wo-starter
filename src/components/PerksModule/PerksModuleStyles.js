@@ -47,11 +47,11 @@ export const PerksModuleStyles = styled.section`
     }
 
     @media (min-width: 1024px) {
-      gap: calc(var(--gap) * 1.5);
+      gap: calc(var(--gap) * 0.125);
     }
 
     @media (min-width: 1200px) {
-      gap: calc(var(--gap) * 1);
+      gap: calc(var(--gap) * 0.125);
     }
   }
 `

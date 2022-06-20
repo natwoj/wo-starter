@@ -14,11 +14,11 @@ const Index = () => {
       <Seo title="Start" />
       <Layout>
         <BannerModule
-          title="Witaj na wejdzonline.pl"
-          subTitle="Strony na wordpress, które sprzedają. Trener personalny? Dietetyk? Działasz w gastronomii? Mały biznes i większa firma. Tworzenie www, prowadzenie i administracja Twoją stroną - wejdz online!"
+          title="Witam na wejdzonline.pl"
+          subTitle="Strony na Wordpress, które sprzedają. Trener personalny? Dietetyk? Działasz w gastronomii? Mały biznes i większa firma. Tworzenie www, prowadzenie i administracja Twoją stroną - wejdz online!"
         />
         <BasicTextModule
-          title="WEJDŹ ONLINE I TU ZOSTAŃ"
+          title="Wejdź online i tu zostań!"
           content="Skoro tu trafiłeś to znaczy, że zależy Ci na własnym biznesie. Czasami jednak trzeba się mocno napocić, żeby przyciągnąć klientów lub ich utrzymać. Daj się poznać w sieci, możesz tylko zyskać!"
           link="/products"
           linkText="Zobacz usługi"
