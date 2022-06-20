@@ -1,7 +1,6 @@
 import styled from "styled-components"
 
 export const PerksModuleStyles = styled.section`
-
   position: relative;
 
   .perks__image--bg,
@@ -21,7 +20,7 @@ export const PerksModuleStyles = styled.section`
   }
 
   .perks__image--overlay {
-    background-color: rgba(0, 0, 0, 0.70);
+    background-color: rgba(0, 0, 0, 0.1);
   }
 
   .perks__divider {
@@ -74,14 +73,14 @@ export const PerkStyles = styled.aside`
 
   h3 {
     display: inline-block;
-    border-bottom: 2px solid rgba(255, 255, 255, 0.15);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.3);
   }
 
   p {
     margin-bottom: 0;
   }
   .gatsby-image-wrapper {
-    width: 170px;
+    width: 250px;
     height: 45px;
     display: flex;
     justify-content: center;
@@ -94,7 +93,7 @@ export const PerkStyles = styled.aside`
 
     @media (min-width: 1024px) {
       width: 300px;
-      height: 60px;
+      height: 80px;
     }
 
     img {

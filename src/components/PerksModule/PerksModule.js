@@ -17,7 +17,7 @@ const PerksModule = () => {
       <div className="perks__image--overlay"></div>
       <div className="container container__tight">
         <Perk
-          title="Wordpress 6.0"
+          title="Wordpress"
           content=""
         >
           <StaticImage
