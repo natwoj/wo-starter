@@ -21,7 +21,7 @@ export const PerksModuleStyles = styled.section`
   }
 
   .perks__image--overlay {
-    background-color: rgba(0, 0, 0, 0.65);
+    background-color: rgba(0, 0, 0, 0.70);
   }
 
   .perks__divider {
@@ -47,11 +47,11 @@ export const PerksModuleStyles = styled.section`
     }
 
     @media (min-width: 1024px) {
-      gap: calc(var(--gap) * 2);
+      gap: calc(var(--gap) * 1.5);
     }
 
     @media (min-width: 1200px) {
-      gap: calc(var(--gap) * 4);
+      gap: calc(var(--gap) * 1);
     }
   }
 `
