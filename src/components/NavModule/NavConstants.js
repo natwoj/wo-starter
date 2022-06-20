@@ -5,7 +5,7 @@ export const menuItems = [
   },
   {
     path: "/about",
-    text: "about",
+    text: "o mnie",
   },
   {
     path: "/news",
@@ -13,6 +13,6 @@ export const menuItems = [
   },
   {
     path: "/contact",
-    text: "contact",
+    text: "kontakt",
   },
 ]

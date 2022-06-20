@@ -87,7 +87,7 @@ export const PerkStyles = styled.aside`
     justify-content: center;
     align-items: center;
     margin: 0 auto calc(var(--gap) / 2) auto;
-
+    
     @media (min-width: 375px) {
       width: 200px;
     }

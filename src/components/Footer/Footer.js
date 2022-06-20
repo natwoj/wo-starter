@@ -36,7 +36,7 @@ const Footer = () => {
           <FooterMenuStyles className="footer__menu products__menu">
             <h5>
               <Link to="/products">
-                All Products<span>.</span>
+                Usługi<span>.</span>
               </Link>
             </h5>
             <ul>
