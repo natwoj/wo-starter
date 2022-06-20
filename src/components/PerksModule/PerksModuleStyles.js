@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 export const PerksModuleStyles = styled.section`
-  background-color: #000;
+
   position: relative;
 
   .perks__image--bg,
