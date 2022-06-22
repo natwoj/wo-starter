@@ -13,19 +13,18 @@ const Features = ({ title, introduction }) => {
       {title || introduction ? (
         <div className="container container__tight">
           <div className="intro__area">
-            {title && <h2>{title}</h2>}
             {introduction && <p>{introduction}</p>}
+            {title && <h2>{title}</h2>}
           </div>
         </div>
       ) : null}
-
       <div className="container container__tight container__scroll">
         {featuredProduct.map((node, index) => {
           return <FeaturedProduct feature={node} key={index} />
         })}
       </div>
       <div className="container container__tight learn__more">
-        <Button as={Link} to="/products" text="All Products" />
+        <Button as={Link} to="/products" text="Wszystkie usługi" />
       </div>
     </FeaturedProductsStyles>
   )

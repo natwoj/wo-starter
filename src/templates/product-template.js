@@ -126,8 +126,8 @@ const Producttemplate = (contentfulProduct) => {
         </ProductGallery>
       )}
       <Features
-        title="Featured Products from Barcadia."
-        introduction="Vivamus quam mauris, pulvinar vel mauris id, interdum semper neque. Proin malesuada libero eget tellus scelerisque, id egestas tortor egestas."
+        title="Zobacz też:"
+        introduction="Stworzenie strony to jedno. Jej utrzymanie i promocja to kolejna, niemniej wazna rzecz. Zobacz w czym jeszcze mogę Ci pomóc"
       />
     </>
   )

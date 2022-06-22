@@ -14,7 +14,7 @@ export const GlobalStyle = createGlobalStyle`
   --letterSpacing: -0.075rem;
   --boxShadow: 0px 15px 22px 3px rgba(0, 0, 0, 0.55);
   --textShadow: 0px 0px 5px rgba(0, 0, 0, 1);
-  --p: 18px;
+  --p: 22px;
   --h2: 20px;
   --h3: 19px;
   --h4: 18px;

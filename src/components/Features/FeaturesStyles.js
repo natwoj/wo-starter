@@ -1,6 +1,9 @@
 import styled from "styled-components"
 
 export const FeaturedProductsStyles = styled.section`
+  p {
+    font-size: 18px; 
+  }
   > div {
     &.container__scroll {
       gap: calc(var(--gap) / 2);

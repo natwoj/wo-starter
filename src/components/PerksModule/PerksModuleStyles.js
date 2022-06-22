@@ -30,6 +30,7 @@ export const PerksModuleStyles = styled.section`
       font-size: 35px;
     }
   }
+
   > .container {
     position: relative;
     display: flex;
