@@ -14,8 +14,11 @@ const PerksModule = () => {
         layout="constrained"
         placeholder="tracedSVG"
       />
-      <div className="perks__image--overlay"></div>
+      <div className="perks__image--overlay">
+      </div>
       <div className="container container__tight">
+      <h2>Technologie</h2></div>
+<div className="container container__tight">
         <Perk
           title="Wordpress"
           content=""

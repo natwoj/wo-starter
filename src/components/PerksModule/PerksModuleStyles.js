@@ -11,7 +11,6 @@ export const PerksModuleStyles = styled.section`
     right: 0;
     bottom: 0;
   }
-
   .perks__image--bg {
     width: 100%;
     height: 100%;
@@ -20,24 +19,24 @@ export const PerksModuleStyles = styled.section`
   }
 
   .perks__image--overlay {
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.85);
   }
 
   .perks__divider {
-    font-size: 25px;
+    font-size: 30px;
     color: var(--primary);
 
     @media (min-width: 1024px) {
       font-size: 35px;
     }
   }
-
   > .container {
     position: relative;
     display: flex;
     flex-direction: column;
     gap: var(--gap);
     align-items: center;
+    margin-bottom: 80px; 
 
     @media (min-width: 768px) {
       flex-direction: row;
@@ -68,9 +67,11 @@ export const PerkStyles = styled.aside`
   }
 
   @media (min-width: 1024px) {
-    max-width: 400px;
+    max-width: 2500px;
   }
-
+  h2 {
+    font-size: 30px;
+  }
   h3 {
     display: inline-block;
     border-bottom: 2px solid rgba(255, 255, 255, 0.3);
