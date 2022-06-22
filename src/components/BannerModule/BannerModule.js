@@ -44,7 +44,7 @@ const BannerModule = ({ children, title, subTitle, price, enquire }) => {
               {enquire && (
                 <Button
                   className="btn"
-                  text="Enquire Now"
+                  text="Zrób wycenę"
                   as={Link}
                   to="/contact"
                 />
