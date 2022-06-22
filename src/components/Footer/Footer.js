@@ -62,7 +62,7 @@ const Footer = () => {
         siteMeta.linkedinUsername ? (
           <FooterMenuStyles className="footer__menu social__menu">
             <h5>
-              Just follow:
+              Social media
             </h5>
             <ul>
               {siteMeta.twitterUsername && (
