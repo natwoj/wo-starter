@@ -3,11 +3,12 @@
 
 Barcadia is a GatsbyJS starter theme that uses Contentful for content management. It includes the main configuration files found in Gatsby.
 
-### Customizing
+### Customizing / working on: 
 
-- working on content-model.json 
-- working on components
-- working on GlobalStyles.js and components styles 
+- content-model.json 
+- components
+- GraphQL / API
+- GlobalStyles.js and components styles 
 - menu / footer / sections 
 
 
