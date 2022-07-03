@@ -22,7 +22,7 @@ Barcadia is a GatsbyJS starter theme that uses Contentful for content management
 - [GatsbyJs](https://www.gatsbyjs.com/)
 - [morgan baker website](https://www.morganbaker.dev/), [morgan baker github](https://github.com/bagseye) 
 
-## Customization
+## Customization in progress
 
 - natwoj 
 
