@@ -19,10 +19,12 @@ Barcadia is a GatsbyJS starter theme that uses Contentful for content management
 ![#reactjs](https://img.shields.io/badge/react-js-blue) 
 
 ## Authors
-- [Gatsbyjs] (https://www.gatsbyjs.com/)
-- [morgan baker website](https://www.morganbaker.dev/)
-- github: https://github.com/bagseye
+- [GatsbyJs](https://www.gatsbyjs.com/)
+- [morgan baker website](https://www.morganbaker.dev/), [morgan baker github](https://github.com/bagseye) 
 
 ## Customization
 
 - natwoj 
+
+
+
