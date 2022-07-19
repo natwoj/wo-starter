@@ -13,7 +13,7 @@ const contact = () => {
         <SimpleBanner title="Contact">
           <StaticImage
             className="banner__image"
-            src="../../static/macbook-dark.jpg"
+            src= "../static/contact.jpeg"
             alt=""
           />
         </SimpleBanner>

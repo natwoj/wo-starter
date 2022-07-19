@@ -6,10 +6,10 @@ export const PerksModuleStyles = styled.section`
   .perks__image--bg,
   .perks__image--overlay {
     position: absolute;
-    top: 0;
+    top: 10px;
     left: 0;
     right: 0;
-    bottom: 0;
+    bottom: 15px;
   }
   .perks__image--bg {
     width: 100%;
