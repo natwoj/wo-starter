@@ -18,8 +18,8 @@ const Layout = ({ children }) => {
         <NavModule />
         <AnimMain>
           {children}
-          <Footer />
         </AnimMain>
+        <Footer />
       </motion.div>
     </>
   )
