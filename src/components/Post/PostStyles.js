@@ -6,11 +6,11 @@ export const PostItemsStyles = styled.section`
   flex-wrap: wrap;
   width: 100%;
   gap: calc(var(--gap) / 2);
+  background-image: ...
 
   @media (min-width: 1200px) {
     gap: var(--gap);
   }
-
   @media (min-width: 1200px) {
     gap: var(--gap);
   }
@@ -26,7 +26,7 @@ export const PostItemStyles = styled(Link)`
   color: #fff;
   text-decoration: none;
   transition: border-color 0.6s ease, background-color 0.6s ease,
-    box-shadow 0.6s ease;
+  box-shadow 0.6s ease,
 
   &:first-child {
     margin-top: 0;

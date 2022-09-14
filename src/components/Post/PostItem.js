@@ -9,8 +9,7 @@ const BlogItem = ({ node }, key) => {
       <h4>{title}</h4>
       {introduction && <p>{introduction}</p>}
       <div className="blogitem__meta">
-        <Button as="span" text="Read More" arrow={true} />
-        <p>{createdAt}</p>
+        <Button as="span" text="Czytaj więcej" arrow={true} />
       </div>
     </PostItemStyles>
   )
